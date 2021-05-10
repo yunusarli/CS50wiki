@@ -1,0 +1,6 @@
+#wikipedia
+* Wikipedia is a free, multilingual online encyclopedia written and maintained by a community of volunteer contributors through a model of open collaboration, using a wiki-based editing system. Wikipedia is the largest and most-read reference work in history,[3] and is consistently one of the 15 most-popular websites as ranked by Alexa; as of 2021, it ranked as the 13th most-popular site.[3][4] The project carries no advertisements and is hosted by the Wikimedia Foundation, an American non-profit organization funded mainly through individual donations.[5]
+
+
+
+* Wikipedia was launched on January 15, 2001, by Jimmy Wales and Larry Sanger; Sanger coined its name as a portmanteau of "wiki" and "encyclopedia".[6][7] Initially available only in English, versions in other languages were quickly developed. The English Wikipedia, with 6.3 million articles as of May 2021, is the largest of the 321 language editions. Combined, Wikipedia's editions comprise more than 56 million articles, and attract more than 17 million edits and more than 1.7 billion unique visitors per month.[8][9]

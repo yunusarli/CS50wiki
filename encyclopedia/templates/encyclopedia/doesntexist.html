@@ -1,0 +1,17 @@
+{% extends 'encyclopedia/layout.html' %}
+
+{% block title %} Search {% endblock title %}
+
+{% block body %}
+
+    {% if similarities %}
+    <ul>
+        {% for similar_word in similarities %}
+        <li><a href="{% url 'encyclopedia:entry_view' similar_word %}"> {{similar_word}} </a></li>
+        {% endfor %}
+    </ul>
+    {% else %}
+        <h2>This Page Doesn't exist</h2>
+    {% endif %}
+
+{% endblock body %}
