@@ -1,0 +1,5 @@
+REQUIREMENTS
+
+-> Python >= 3
+-> Django >= 3
+-> python markdown library (pip install markdown)
